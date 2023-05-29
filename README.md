@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santosh Gupta</h1>
 <h3 align="center">A passionate Data Science Student.</h3>
 
-<img align = "right" alt = "coding" width = "400" src = "https://github.com/Samarth-DataScience/samarth-datascience/blob/main/Untitled%20design%20(1).png">
+<img align = "right" alt = "coding" width = "400" src = "[https://github.com/Samarth-DataScience/samarth-datascience/blob/main/Untitled%20design%20(1).png](https://github.com/Samarth-DataScience/samarth-datascience/blob/main/Untitled%20design.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarth-datascience&label=Profile%20views&color=0e75b6&style=flat" alt="samarth-datascience" /> </p>
 
