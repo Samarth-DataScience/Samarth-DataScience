@@ -1,30 +1,39 @@
 <h1 align="center">Hi 👋, I'm Santosh Gupta</h1>
-<h3 align="center">Data Analytics Enthusiast</h3>
+<h3 align="center">A passionate Data Science Student</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=samarth-datascience&label=Profile%20views" alt="samarth-datascience" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samarth-datascience&label=Profile%20views&color=0e75b6&style=flat" alt="samarth-datascience" /> </p>
 
-<!-- GitHub Stats -->
-<p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samarth-datascience&show_icons=true)
-</p>
+---
 
-<!-- Visitors Counter -->
-<p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=samarth-datascience&label=Profile%20views)
-</p>
+🔬 **Data Analytics Enthusiast**
 
-<!-- Circular Charts -->
-<p align="center">
-  ![GitHub Repositories](https://img.shields.io/github/stars/your-github-username?style=for-the-badge&color=brightgreen&label=Repositories)
-  ![GitHub Followers](https://img.shields.io/github/followers/your-github-username?style=for-the-badge&color=blue&label=Followers)
-  ![GitHub Contributions](https://img.shields.io/github/last-commit/your-github-username?style=for-the-badge&color=orange&label=Contributions)
-</p>
+🌱 Currently exploring the world of data science and analytics.
 
-- 🔭 I’m currently working at **Samsung**
-- 🌱 I’m currently learning **Data Analytics**
-- 👯 I’m looking to collaborate on **Data Analytics Projects**
-- 👨‍💻 All my projects are available at [My Portfolio](https://samarth-datascience.github.io/portfolio/)
-- 📝 I regularly write articles on [My Blog](https://samarth-datascience.github.io/portfolio/)
-- 📫 How to reach me: **santosh.gupg@gmail.com**
+👯 Open to collaboration on exciting data science projects.
+
+📚 Check out my [Data Science Portfolio](https://samarth-datascience.github.io/portfolio/) for a glimpse of my work.
+
+📝 I love sharing my insights and experiences on [My Blog](https://samarth-datascience.github.io/portfolio/).
+
+📫 Feel free to reach out to me at **santosh.gupg@gmail.com** for any inquiries or collaborations.
+
+---
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarth-datascience&show_icons=true&locale=en&layout=compact" alt="samarth-datascience" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samarth-datascience&show_icons=true&locale=en" alt="samarth-datascience" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samarth-datascience&" alt="samarth-datascience" /></p>
+---
+
+📊 **Data Analytics Highlights**
+
+- **Current Role:** Working at **Samsung** to harness the power of data.
+
+- **Learning Journey:** Deep diving into the world of **Data Science** to extract valuable insights.
+
+- **Collaborate with Me:** Looking forward to collaborating on interesting **Data Science Projects**.
+
+---
+
+
+Feel free to explore my data-driven journey, and if you have any questions or want to connect, drop me an email at **santosh.gupg@gmail.com**. Let's explore the data world together!
