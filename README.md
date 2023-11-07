@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santosh Gupta</h1>
 <h3 align="center">A passionate Data Science Student</h3>
 
-<p align="left"> <img src="https://github.com/Samarth-DataScience/samarth-datascience/blob/main/You%20Think%20Big%2C%20You%20Get%20Big%20(1).png" alt="samarth-datascience" /> </p>
+
 
 ---
 
