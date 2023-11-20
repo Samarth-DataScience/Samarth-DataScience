@@ -11,9 +11,9 @@
 
 👯 Open to collaboration on exciting data science projects.
 
-📚 Check out my [Data Science Portfolio](https://samarth-datascience.github.io/portfolio/) for a glimpse of my work.
+📚 Check out my [Data Science Portfolio](https://portfolio-rose-mu-16.vercel.app/) for a glimpse of my work.
 
-📝 I love sharing my insights and experiences on [My Blog](https://samarth-datascience.github.io/portfolio/).
+📝 I love sharing my insights and experiences on [My Blog](https://portfolio-rose-mu-16.vercel.app/).
 
 📫 Feel free to reach out to me at **santosh.gupg@gmail.com** for any inquiries or collaborations.
 
