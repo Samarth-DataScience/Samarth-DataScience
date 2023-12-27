@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Santosh Gupta</h1>
 <h3 align="center">A passionate Data Science Student</h3>
-
+<img align="right" alt="Coding" width="400" src="https://micrologicmedia.com/wp-content/uploads/2020/01/HireArtist.png">
 
 
 ---
