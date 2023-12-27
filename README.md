@@ -1,3 +1,4 @@
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/475eb095746151.5e9ecde695f7a.gif)
 <h1 align="center">Hi 👋, I'm Santosh Gupta</h1>
 <h3 align="center">A passionate Data Science Student</h3>
 <img align="right" alt="Coding" width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
