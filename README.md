@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
 
 
----
+------
 
 🔬 **Data Analytics Enthusiast**
 
@@ -34,7 +34,7 @@
 
 - **Collaborate with Me:** Looking forward to collaborating on interesting **Data Science Projects**.
 
----
+------
 
 
 Feel free to explore my data-driven journey, and if you have any questions or want to connect, drop me an email at **santosh.gupg@gmail.com**. Let's explore the data world together!
